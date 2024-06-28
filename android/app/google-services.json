@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "747078886061",
+    "project_id": "realteambasketball-7f39e",
+    "storage_bucket": "realteambasketball-7f39e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747078886061:android:2bfc91d18626e76a76dc24",
+        "android_client_info": {
+          "package_name": "io.teambasketball.teambasketball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747078886061-hc9i4ts6pj03ll8u8nqt422lcmr92edg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaY3HjA9V0ZSwnZLXqtkPeUcioZ--B6YY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747078886061-hc9i4ts6pj03ll8u8nqt422lcmr92edg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "747078886061-q6anvio26s3g9l0gvak27g2i3p36gg9f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.teambasketball.teambasketball"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
